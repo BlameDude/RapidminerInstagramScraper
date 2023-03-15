@@ -1,6 +1,8 @@
 # RapidminerInstagramScraper
 Rapidminer Process to extract Instagram Comments
 
+Import the .rmp into Rapidminer
+
 The process has been imported and tested on a Windows computer with Python 3 Anaconda andRapidminer 9.10. 
 This means that the process can be used in both Mac and Windows. 
 
