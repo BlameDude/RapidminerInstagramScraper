@@ -1,3 +1,6 @@
+#login mehtod depreciated
+Python Skript needs a new way to login.
+
 # RapidminerInstagramScraper
 Rapidminer Process to extract Instagram Comments
 
