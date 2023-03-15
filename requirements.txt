@@ -1,3 +1,9 @@
+pyqt5<5.13
+pyqtwebengine<5.13
+pytest-cov>=2.0
+pytest-filter-subpackage>=0.1
+typed-ast<1.5,>=1.4.0
+numpy==1.16.0
 appdirs==1.4.4
 beautifulsoup4==4.9.3
 bs4==0.0.1
